@@ -1,1 +1,1 @@
-The Prosper Loan ANalysis using python programming language.
+The Prosper Loan Analysis using python programming language.
